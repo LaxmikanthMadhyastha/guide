@@ -2,6 +2,8 @@
 title: Return Early Pattern for Functions
 ---
 ## Return Early Pattern for Functions
+There can be multiple solutions and below is one among them
+
 ```javascript
 function abTest(a, b) {
   if(a < 0 || b< 0)
